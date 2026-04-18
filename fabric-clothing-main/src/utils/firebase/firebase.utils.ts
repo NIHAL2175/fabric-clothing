@@ -27,12 +27,12 @@ import {
 import { CategoriesType } from "../../store/categories/categories.types";
 // Firebase configuration
 const firebaseConfig = {
-	apiKey: "AIzaSyAE2HqJ9FTxPNzt-CifhFJCkdySoaDlmg4",
-	authDomain: "my-clothing-app-db.firebaseapp.com",
-	projectId: "my-clothing-app-db",
-	storageBucket: "my-clothing-app-db.appspot.com",
-	messagingSenderId: "132472709242",
-	appId: "1:132472709242:web:f4078bc6dfcadf0add5bc3",
+	apiKey: "xxxxxxxxxxxxxxxxxx",
+	authDomain: "xxxxxxxxxxxxxxxxxx",
+	projectId: "xxxxxxxxxxxxxxxx",
+	storageBucket: "xxxxxxxxxxx",
+	messagingSenderId: "xxxxxxxxxxxxxxxx",
+	appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 };
 
 // Initialize Firebase
